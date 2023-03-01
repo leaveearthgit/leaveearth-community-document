@@ -1,0 +1,24 @@
+# Planovi robota
+
+>Dokument je filtrirao Historical.If.
+
+Ovaj dokument će biti sinhronizovan na github: https://github.com/leaveearthgit/leaveearth-community-document
+
+## 1 Informacije o dokumentu
+
+- Broj verzije dokumenta: 1
+- Vrijeme kreiranja dokumenta: 2023-03-01 (GMT)
+
+## 2 Detalji plana
+
+Nije odabran plan
+
+## 3 Priznanja
+* Članovi zajednice Leaveearth
+
+## 4 Popularizovati
+[1] leaveearth.com
+
+[2] bombmsg.com
+
+[3] Zamišljamo, a onda to i ostvarujemo

@@ -1,0 +1,24 @@
+# Other plans
+
+>The document was filtered by Historical.If.
+
+This document will be synchronized to github: https://github.com/leaveearthgit/leaveearth-community-document
+
+## 1 Document Information
+
+- Document version number: 1
+- Document creation time: 2023-03-01 (GMT)
+
+## 2 Plan Details
+
+No plan selected
+
+## 3 Acknowledgments
+* Leaveearth community members
+
+## 4 Popularize
+[1] leaveearth.com
+
+[2] bombmsg.com
+
+[3] We imagine, then we make it happen
