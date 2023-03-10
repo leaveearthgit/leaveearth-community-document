@@ -6,8 +6,8 @@ Galmeen kun github waliin walsimsiifama: https://github.com/leaveearthgit/leavee
 
 ## 1 Odeeffannoo Sanadaa
 
-- Lakkoofsa gosa galmee: 9
-- Yeroo sanada uumuu: 2023-03-03 (GMT)
+- Lakkoofsa gosa galmee: 10
+- Yeroo sanada uumuu: 2023-03-10 (GMT)
 
 ## 2 Bal'ina Karoora
 
