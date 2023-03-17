@@ -6,8 +6,8 @@ Acest document va fi sincronizat cu github: https://github.com/leaveearthgit/lea
 
 ## 1 Informații despre document
 
-- Numărul versiunii documentului: 10
-- Timpul de creare a documentului: 2023-03-10 (GMT)
+- Numărul versiunii documentului: 11
+- Timpul de creare a documentului: 2023-03-17 (GMT)
 
 ## 2 Detalii plan
 
