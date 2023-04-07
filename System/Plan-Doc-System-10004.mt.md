@@ -6,8 +6,8 @@ Dan id-dokument se jkun sinkronizzat ma 'github: https://github.com/leaveearthgi
 
 ## 1 Informazzjoni dwar id-Dokument
 
-- Numru tal-verżjoni tad-dokument: 13
-- Ħin tal-ħolqien tad-dokument: 2023-03-31 (GMT)
+- Numru tal-verżjoni tad-dokument: 14
+- Ħin tal-ħolqien tad-dokument: 2023-04-07 (GMT)
 
 ## 2 Dettalji tal-Pjan
 

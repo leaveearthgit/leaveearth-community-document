@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 13
-- Tempo de kreado de dokumentoj: 2023-03-31 (GMT)
+- Dokumenta versio numero: 14
+- Tempo de kreado de dokumentoj: 2023-04-07 (GMT)
 
 ## 2 Planaj Detaloj
 
