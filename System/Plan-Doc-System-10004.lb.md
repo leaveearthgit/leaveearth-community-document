@@ -6,8 +6,8 @@ Dëst Dokument gëtt op github synchroniséiert: https://github.com/leaveearthgi
 
 ## 1 Dokument Informatiounen
 
-- Dokument Versioun Zuel: 14
-- Dokument Kreatioun Zäit: 2023-04-07 (GMT)
+- Dokument Versioun Zuel: 15
+- Dokument Kreatioun Zäit: 2023-04-14 (GMT)
 
 ## 2 Plan Detailer
 
