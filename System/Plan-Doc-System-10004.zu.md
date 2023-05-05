@@ -6,8 +6,8 @@ Le dokhumenti izovumelaniswa ku-github: https://github.com/leaveearthgit/leaveea
 
 ## 1 Ulwazi Lombhalo
 
-- Inombolo yenguqulo yedokhumenti: 17
-- Isikhathi sokudala idokhumenti: 2023-04-28 (GMT)
+- Inombolo yenguqulo yedokhumenti: 18
+- Isikhathi sokudala idokhumenti: 2023-05-05 (GMT)
 
 ## 2 Hlela Imininingwane
 
