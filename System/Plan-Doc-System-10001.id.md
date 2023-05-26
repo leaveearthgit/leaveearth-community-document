@@ -6,8 +6,8 @@ Dokumen ini akan disinkronkan ke github: https://github.com/leaveearthgit/leavee
 
 ## 1 Informasi Dokumen
 
-- Nomor versi dokumen: 20
-- Waktu pembuatan dokumen: 2023-05-19 (GMT)
+- Nomor versi dokumen: 21
+- Waktu pembuatan dokumen: 2023-05-26 (GMT)
 
 ## 2 Detail Rencana
 
