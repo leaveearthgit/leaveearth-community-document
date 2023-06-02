@@ -6,8 +6,8 @@ O lenei pepa o le a tuʻufaʻatasia i le github: https://github.com/leaveearthgi
 
 ## 1 Fa'amatalaga Fa'amaumauga
 
-- Numera fa'amaumauga o pepa: 21
-- Taimi e fai ai pepa: 2023-05-26 (GMT)
+- Numera fa'amaumauga o pepa: 22
+- Taimi e fai ai pepa: 2023-06-02 (GMT)
 
 ## 2 Fa'amatalaga Fuafuaga
 
