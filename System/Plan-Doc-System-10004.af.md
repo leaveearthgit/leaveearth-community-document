@@ -6,8 +6,8 @@ Hierdie dokument sal gesinchroniseer word na github: https://github.com/leaveear
 
 ## 1 Dokumentinligting
 
-- Dokumentweergawenommer: 25
-- Dokument skep tyd: 2023-06-23 (GMT)
+- Dokumentweergawenommer: 26
+- Dokument skep tyd: 2023-06-30 (GMT)
 
 ## 2 Planbesonderhede
 

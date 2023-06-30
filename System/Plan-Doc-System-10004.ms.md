@@ -6,8 +6,8 @@ Dokumen ini akan disegerakkan ke github: https://github.com/leaveearthgit/leavee
 
 ## 1 Maklumat Dokumen
 
-- Nombor versi dokumen: 25
-- Masa pembuatan dokumen: 2023-06-23 (GMT)
+- Nombor versi dokumen: 26
+- Masa pembuatan dokumen: 2023-06-30 (GMT)
 
 ## 2 Butiran Rancangan
 

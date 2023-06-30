@@ -6,8 +6,8 @@ Dokumén ieu bakal disingkronkeun kana github: https://github.com/leaveearthgit/
 
 ## 1 Émbaran Dokumén
 
-- Nomer versi dokumén: 25
-- Waktu nyieun dokumén: 2023-06-23 (GMT)
+- Nomer versi dokumén: 26
+- Waktu nyieun dokumén: 2023-06-30 (GMT)
 
 ## 2 Rincian rencana
 
