@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 32
-- Tími til að búa til skjöl: 2023-08-11 (GMT)
+- Útgáfunúmer skjalsins: 33
+- Tími til að búa til skjöl: 2023-08-18 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

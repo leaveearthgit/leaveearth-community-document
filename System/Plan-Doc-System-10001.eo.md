@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 32
-- Tempo de kreado de dokumentoj: 2023-08-11 (GMT)
+- Dokumenta versio numero: 33
+- Tempo de kreado de dokumentoj: 2023-08-18 (GMT)
 
 ## 2 Planaj Detaloj
 
