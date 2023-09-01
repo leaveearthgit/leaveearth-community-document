@@ -6,8 +6,8 @@ Thèid an sgrìobhainn seo a shioncronachadh gu github: https://github.com/leave
 
 ## 1 Fiosrachadh Sgrìobhainn
 
-- Àireamh dreach na sgrìobhainn: 34
-- Ùine cruthachaidh sgrìobhainnean: 2023-08-25 (GMT)
+- Àireamh dreach na sgrìobhainn: 35
+- Ùine cruthachaidh sgrìobhainnean: 2023-09-01 (GMT)
 
 ## 2 Mion-fhiosrachadh Plana
 
