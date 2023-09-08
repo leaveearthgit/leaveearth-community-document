@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 35
-- Dokumenta izveides laiks: 2023-09-01 (GMT)
+- Dokumenta versijas numurs: 36
+- Dokumenta izveides laiks: 2023-09-08 (GMT)
 
 ## 2 Plāna detaļas
 
