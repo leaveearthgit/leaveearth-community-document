@@ -6,8 +6,8 @@ Tokomane ena e tla hokahanngoa le github: https://github.com/leaveearthgit/leave
 
 ## 1 Boitsebiso ba Tokomane
 
-- Nomoro ea mofuta oa tokomane: 36
-- Nako ea ho etsa litokomane: 2023-09-08 (GMT)
+- Nomoro ea mofuta oa tokomane: 37
+- Nako ea ho etsa litokomane: 2023-09-15 (GMT)
 
 ## 2 Lintlha tsa moralo
 

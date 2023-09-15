@@ -6,8 +6,8 @@ Za a daidaita wannan takaddar zuwa github: https://github.com/leaveearthgit/leav
 
 ## 1 Bayanin Takardu
 
-- Lambar sigar daftarin aiki: 36
-- Lokacin ƙirƙirar daftarin aiki: 2023-09-08 (GMT)
+- Lambar sigar daftarin aiki: 37
+- Lokacin ƙirƙirar daftarin aiki: 2023-09-15 (GMT)
 
 ## 2 Cikakken Bayani
 

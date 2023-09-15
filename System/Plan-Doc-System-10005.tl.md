@@ -6,8 +6,8 @@ Isi-synchronize ang dokumentong ito sa github: https://github.com/leaveearthgit/
 
 ## 1 Impormasyon ng Dokumento
 
-- Numero ng bersyon ng dokumento: 36
-- Oras ng paggawa ng dokumento: 2023-09-08 (GMT)
+- Numero ng bersyon ng dokumento: 37
+- Oras ng paggawa ng dokumento: 2023-09-15 (GMT)
 
 ## 2 Mga Detalye ng Plano
 
