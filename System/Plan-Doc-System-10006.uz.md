@@ -6,8 +6,8 @@ Ushbu hujjat github bilan sinxronlashtiriladi: https://github.com/leaveearthgit/
 
 ## 1 Hujjat ma'lumotlari
 
-- Hujjat versiyasi raqami: 39
-- Hujjatni yaratish vaqti: 2023-09-29 (GMT)
+- Hujjat versiyasi raqami: 40
+- Hujjatni yaratish vaqti: 2023-10-06 (GMT)
 
 ## 2 Reja tafsilotlari
 
