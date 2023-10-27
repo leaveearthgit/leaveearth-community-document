@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 42
-- Dokumento sukūrimo laikas: 2023-10-20 (GMT)
+- Dokumento versijos numeris: 43
+- Dokumento sukūrimo laikas: 2023-10-27 (GMT)
 
 ## 2 Plano detalės
 
