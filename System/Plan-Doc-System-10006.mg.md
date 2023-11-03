@@ -6,8 +6,8 @@ Ity antontan-taratasy ity dia hatambatra amin'ny github: https://github.com/leav
 
 ## 1 Document Information
 
-- Laharana dikan-drakitra: 43
-- Fotoana famoronana antontan-taratasy: 2023-10-27 (GMT)
+- Laharana dikan-drakitra: 44
+- Fotoana famoronana antontan-taratasy: 2023-11-03 (GMT)
 
 ## 2 Tsipirian'ny drafitra
 

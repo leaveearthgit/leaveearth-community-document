@@ -6,8 +6,8 @@ Daytoy a dokumento ket maisinkronisar iti github: https://github.com/leaveearthg
 
 ## 1 Impormasion ti Dokumento
 
-- Numero ti bersion ti dokumento: 43
-- Oras ti panagpartuat ti dokumento: 2023-10-27 (GMT)
+- Numero ti bersion ti dokumento: 44
+- Oras ti panagpartuat ti dokumento: 2023-11-03 (GMT)
 
 ## 2 Detalye ti Plano
 
