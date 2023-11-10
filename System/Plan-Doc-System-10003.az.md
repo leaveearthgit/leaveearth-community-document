@@ -6,8 +6,8 @@ Bu sənəd github ilə sinxronlaşdırılacaq: https://github.com/leaveearthgit/
 
 ## 1 Sənəd Məlumatı
 
-- Sənədin versiya nömrəsi: 44
-- Sənədin yaradılması vaxtı: 2023-11-03 (GMT)
+- Sənədin versiya nömrəsi: 45
+- Sənədin yaradılması vaxtı: 2023-11-10 (GMT)
 
 ## 2 Plan təfərrüatları
 
