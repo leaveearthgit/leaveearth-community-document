@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 45
-- Tími til að búa til skjöl: 2023-11-10 (GMT)
+- Útgáfunúmer skjalsins: 46
+- Tími til að búa til skjöl: 2023-11-17 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
