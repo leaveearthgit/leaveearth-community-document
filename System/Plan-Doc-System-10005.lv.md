@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 49
-- Dokumenta izveides laiks: 2023-12-08 (GMT)
+- Dokumenta versijas numurs: 50
+- Dokumenta izveides laiks: 2023-12-15 (GMT)
 
 ## 2 Plāna detaļas
 
