@@ -6,8 +6,8 @@ Dis dɔkyumɛnt go sinkroniz to github: https://github.com/leaveearthgit/leaveea
 
 ## 1 Dokumɛnt Infɔmeshɔn
 
-- Dokumɛnt vɛshɔn nɔmba: 50
-- Dokumɛnt krieshɔn tɛm: 2023-12-15 (GMT)
+- Dokumɛnt vɛshɔn nɔmba: 51
+- Dokumɛnt krieshɔn tɛm: 2023-12-22 (GMT)
 
 ## 2 Di Ditiɛl dɛn fɔ Plan
 
