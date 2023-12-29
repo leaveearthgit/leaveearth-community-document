@@ -6,8 +6,8 @@ Questo documento verrà sincronizzato con github: https://github.com/leaveearthg
 
 ## 1 Informazioni sul documento
 
-- Numero di versione del documento: 51
-- Tempo di creazione del documento: 2023-12-22 (GMT)
+- Numero di versione del documento: 52
+- Tempo di creazione del documento: 2023-12-29 (GMT)
 
 ## 2 Dettagli del piano
 

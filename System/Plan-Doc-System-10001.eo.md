@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 51
-- Tempo de kreado de dokumentoj: 2023-12-22 (GMT)
+- Dokumenta versio numero: 52
+- Tempo de kreado de dokumentoj: 2023-12-29 (GMT)
 
 ## 2 Planaj Detaloj
 
