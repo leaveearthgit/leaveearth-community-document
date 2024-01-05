@@ -6,8 +6,8 @@ Ovaj dokument će biti sinhronizovan na github: https://github.com/leaveearthgit
 
 ## 1 Informacije o dokumentu
 
-- Broj verzije dokumenta: 52
-- Vrijeme kreiranja dokumenta: 2023-12-29 (GMT)
+- Broj verzije dokumenta: 53
+- Vrijeme kreiranja dokumenta: 2024-01-05 (GMT)
 
 ## 2 Detalji plana
 
