@@ -6,8 +6,8 @@ Tsalwa leri ri ta fambisana na github: https://github.com/leaveearthgit/leaveear
 
 ## 1 Vuxokoxoko bya Matsalwa
 
-- Nomboro ya vuhundzuluxeri bya tsalwa: 55
-- Nkarhi wo tumbuluxa matsalwa: 2024-01-19 (GMT)
+- Nomboro ya vuhundzuluxeri bya tsalwa: 56
+- Nkarhi wo tumbuluxa matsalwa: 2024-01-26 (GMT)
 
 ## 2 Vuxokoxoko bya Pulani
 

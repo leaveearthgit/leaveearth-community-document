@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 55
-- Dokumento sukūrimo laikas: 2024-01-19 (GMT)
+- Dokumento versijos numeris: 56
+- Dokumento sukūrimo laikas: 2024-01-26 (GMT)
 
 ## 2 Plano detalės
 
