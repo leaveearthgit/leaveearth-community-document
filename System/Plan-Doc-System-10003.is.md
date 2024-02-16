@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 58
-- Tími til að búa til skjöl: 2024-02-09 (GMT)
+- Útgáfunúmer skjalsins: 59
+- Tími til að búa til skjöl: 2024-02-16 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

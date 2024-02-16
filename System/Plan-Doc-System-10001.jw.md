@@ -6,8 +6,8 @@ Dokumen iki bakal disinkronake menyang github: https://github.com/leaveearthgit/
 
 ## 1 Informasi Dokumen
 
-- Nomer versi dokumen: 58
-- Wektu nggawe dokumen: 2024-02-09 (GMT)
+- Nomer versi dokumen: 59
+- Wektu nggawe dokumen: 2024-02-16 (GMT)
 
 ## 2 Rincian Rencana
 
