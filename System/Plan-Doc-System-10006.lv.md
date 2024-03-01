@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 60
-- Dokumenta izveides laiks: 2024-02-23 (GMT)
+- Dokumenta versijas numurs: 61
+- Dokumenta izveides laiks: 2024-03-01 (GMT)
 
 ## 2 Plāna detaļas
 
