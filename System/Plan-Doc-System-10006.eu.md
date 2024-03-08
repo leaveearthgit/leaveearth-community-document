@@ -6,8 +6,8 @@ Dokumentu hau github-ekin sinkronizatuko da: https://github.com/leaveearthgit/le
 
 ## 1 Dokumentuari buruzko informazioa
 
-- Dokumentuaren bertsio-zenbakia: 61
-- Dokumentuak sortzeko denbora: 2024-03-01 (GMT)
+- Dokumentuaren bertsio-zenbakia: 62
+- Dokumentuak sortzeko denbora: 2024-03-08 (GMT)
 
 ## 2 Planaren xehetasunak
 
