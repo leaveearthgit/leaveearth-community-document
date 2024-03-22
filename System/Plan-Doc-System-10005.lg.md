@@ -6,8 +6,8 @@ Ekiwandiiko kino kijja kukwatagana ne github: https://github.com/leaveearthgit/l
 
 ## 1 Amawulire mu biwandiiko
 
-- Ennamba y'enkyusa y'ekiwandiiko: 63
-- Obudde bw’okutonda ebiwandiiko: 2024-03-15 (GMT)
+- Ennamba y'enkyusa y'ekiwandiiko: 64
+- Obudde bw’okutonda ebiwandiiko: 2024-03-22 (GMT)
 
 ## 2 Ebikwata ku nteekateeka
 
