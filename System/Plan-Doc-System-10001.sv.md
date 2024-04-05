@@ -6,8 +6,8 @@ Detta dokument kommer att synkroniseras till github: https://github.com/leaveear
 
 ## 1 Dokumentinformation
 
-- Dokumentets versionsnummer: 65
-- Tid för att skapa dokument: 2024-03-29 (GMT)
+- Dokumentets versionsnummer: 66
+- Tid för att skapa dokument: 2024-04-05 (GMT)
 
 ## 2 Plandetaljer
 
