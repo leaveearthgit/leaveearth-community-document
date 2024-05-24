@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 72
-- Tempo de kreado de dokumentoj: 2024-05-17 (GMT)
+- Dokumenta versio numero: 73
+- Tempo de kreado de dokumentoj: 2024-05-24 (GMT)
 
 ## 2 Planaj Detaloj
 
