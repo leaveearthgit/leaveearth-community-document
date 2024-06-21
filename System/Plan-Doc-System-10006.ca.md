@@ -6,8 +6,8 @@ Aquest document es sincronitzarà amb github: https://github.com/leaveearthgit/l
 
 ## 1 Informació del document
 
-- Número de versió del document: 76
-- Temps de creació del document: 2024-06-14 (GMT)
+- Número de versió del document: 77
+- Temps de creació del document: 2024-06-21 (GMT)
 
 ## 2 Detalls del pla
 
