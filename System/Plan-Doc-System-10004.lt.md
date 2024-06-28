@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 77
-- Dokumento sukūrimo laikas: 2024-06-21 (GMT)
+- Dokumento versijos numeris: 78
+- Dokumento sukūrimo laikas: 2024-06-28 (GMT)
 
 ## 2 Plano detalės
 
