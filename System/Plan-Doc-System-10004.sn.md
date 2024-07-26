@@ -6,8 +6,8 @@ Iri gwaro rinozowiriraniswa kune github: https://github.com/leaveearthgit/leavee
 
 ## 1 Document Information
 
-- Document version nhamba: 81
-- Nguva yekugadzira gwaro: 2024-07-19 (GMT)
+- Document version nhamba: 82
+- Nguva yekugadzira gwaro: 2024-07-26 (GMT)
 
 ## 2 Ronga Details
 

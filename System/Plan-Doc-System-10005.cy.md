@@ -6,8 +6,8 @@ Bydd y ddogfen hon yn cael ei chysoni i github: https://github.com/leaveearthgit
 
 ## 1 Gwybodaeth Dogfen
 
-- Rhif fersiwn y ddogfen: 81
-- Amser creu dogfen: 2024-07-19 (GMT)
+- Rhif fersiwn y ddogfen: 82
+- Amser creu dogfen: 2024-07-26 (GMT)
 
 ## 2 Manylion y Cynllun
 
