@@ -6,8 +6,8 @@ Ev belge dê bi github re were hevdem kirin: https://github.com/leaveearthgit/le
 
 ## 1 Agahdariya Belgeyê
 
-- Hejmara guhertoya belgeyê: 82
-- Dema çêkirina belgeyê: 2024-07-26 (GMT)
+- Hejmara guhertoya belgeyê: 83
+- Dema çêkirina belgeyê: 2024-08-02 (GMT)
 
 ## 2 Details Plan
 
