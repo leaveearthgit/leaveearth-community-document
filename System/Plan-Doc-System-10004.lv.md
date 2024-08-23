@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 85
-- Dokumenta izveides laiks: 2024-08-16 (GMT)
+- Dokumenta versijas numurs: 86
+- Dokumenta izveides laiks: 2024-08-23 (GMT)
 
 ## 2 Plāna detaļas
 
