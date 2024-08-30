@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 86
-- Tími til að búa til skjöl: 2024-08-23 (GMT)
+- Útgáfunúmer skjalsins: 87
+- Tími til að búa til skjöl: 2024-08-30 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
