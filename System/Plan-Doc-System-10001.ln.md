@@ -6,8 +6,8 @@ Mokanda oyo ekozala synchronisé na github: https://github.com/leaveearthgit/lea
 
 ## 1 Basango ya mikanda
 
-- Nimero ya version ya mokanda: 88
-- Tango ya bokeli mikanda: 2024-09-06 (GMT)
+- Nimero ya version ya mokanda: 89
+- Tango ya bokeli mikanda: 2024-09-13 (GMT)
 
 ## 2 Makambo ya mikemike ya mwango
 

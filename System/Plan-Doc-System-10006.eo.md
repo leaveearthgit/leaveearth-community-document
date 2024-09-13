@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 88
-- Tempo de kreado de dokumentoj: 2024-09-06 (GMT)
+- Dokumenta versio numero: 89
+- Tempo de kreado de dokumentoj: 2024-09-13 (GMT)
 
 ## 2 Planaj Detaloj
 
