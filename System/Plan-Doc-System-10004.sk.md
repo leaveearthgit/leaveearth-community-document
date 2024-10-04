@@ -6,8 +6,8 @@ Tento dokument bude synchronizovaný s githubom: https://github.com/leaveearthgi
 
 ## 1 Informácie o dokumente
 
-- Číslo verzie dokumentu: 91
-- Čas vytvorenia dokumentu: 2024-09-27 (GMT)
+- Číslo verzie dokumentu: 92
+- Čas vytvorenia dokumentu: 2024-10-04 (GMT)
 
 ## 2 Podrobnosti plánu
 
