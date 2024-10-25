@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 94
-- Tími til að búa til skjöl: 2024-10-18 (GMT)
+- Útgáfunúmer skjalsins: 95
+- Tími til að búa til skjöl: 2024-10-25 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
