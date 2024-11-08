@@ -6,8 +6,8 @@ Este documento será sincronizado com o github: https://github.com/leaveearthgit
 
 ## 1 Informações do Documento
 
-- Número da versão do documento: 96
-- Hora de criação do documento: 2024-11-01 (GMT)
+- Número da versão do documento: 97
+- Hora de criação do documento: 2024-11-08 (GMT)
 
 ## 2 Detalhes do plano
 
