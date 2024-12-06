@@ -6,8 +6,8 @@ Aka qillqatax github ukar sincronizado ukhamawa: https://github.com/leaveearthgi
 
 ## 1 Documento Yatiyawi
 
-- Documento versión ukaxa jakhuwa: 100
-- Documento luraña pacha: 2024-11-29 (GMT)
+- Documento versión ukaxa jakhuwa: 101
+- Documento luraña pacha: 2024-12-06 (GMT)
 
 ## 2 Plan Detalles ukanakat yatxataña
 

@@ -6,8 +6,8 @@ Stu documentu serà sincronizatu cù github: https://github.com/leaveearthgit/le
 
 ## 1 Document Information
 
-- Numeru di versione di u documentu: 100
-- U tempu di creazione di documenti: 2024-11-29 (GMT)
+- Numeru di versione di u documentu: 101
+- U tempu di creazione di documenti: 2024-12-06 (GMT)
 
 ## 2 Dettagli di u pianu
 

@@ -6,8 +6,8 @@ Hati hii itasawazishwa na github: https://github.com/leaveearthgit/leaveearth-co
 
 ## 1 Taarifa ya Hati
 
-- Nambari ya toleo la hati: 100
-- Wakati wa kuunda hati: 2024-11-29 (GMT)
+- Nambari ya toleo la hati: 101
+- Wakati wa kuunda hati: 2024-12-06 (GMT)
 
 ## 2 Maelezo ya Mpango
 
