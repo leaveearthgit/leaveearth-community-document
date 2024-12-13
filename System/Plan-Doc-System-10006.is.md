@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 101
-- Tími til að búa til skjöl: 2024-12-06 (GMT)
+- Útgáfunúmer skjalsins: 102
+- Tími til að búa til skjöl: 2024-12-13 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

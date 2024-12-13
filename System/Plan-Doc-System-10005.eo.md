@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 101
-- Tempo de kreado de dokumentoj: 2024-12-06 (GMT)
+- Dokumenta versio numero: 102
+- Tempo de kreado de dokumentoj: 2024-12-13 (GMT)
 
 ## 2 Planaj Detaloj
 
