@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 103
-- Dokumento sukūrimo laikas: 2024-12-20 (GMT)
+- Dokumento versijos numeris: 104
+- Dokumento sukūrimo laikas: 2024-12-27 (GMT)
 
 ## 2 Plano detalės
 
