@@ -6,8 +6,8 @@ Kini nga dokumento i-synchronize sa github: https://github.com/leaveearthgit/lea
 
 ## 1 Impormasyon sa Dokumento
 
-- Numero sa bersyon sa dokumento: 104
-- Panahon sa paghimo og dokumento: 2024-12-27 (GMT)
+- Numero sa bersyon sa dokumento: 105
+- Panahon sa paghimo og dokumento: 2025-01-03 (GMT)
 
 ## 2 Mga Detalye sa Plano
 
