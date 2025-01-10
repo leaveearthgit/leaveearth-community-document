@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 105
-- Dokumento sukūrimo laikas: 2025-01-03 (GMT)
+- Dokumento versijos numeris: 106
+- Dokumento sukūrimo laikas: 2025-01-10 (GMT)
 
 ## 2 Plano detalės
 

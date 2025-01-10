@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 105
-- Tími til að búa til skjöl: 2025-01-03 (GMT)
+- Útgáfunúmer skjalsins: 106
+- Tími til að búa til skjöl: 2025-01-10 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
