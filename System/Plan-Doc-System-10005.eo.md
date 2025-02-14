@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 110
-- Tempo de kreado de dokumentoj: 2025-02-07 (GMT)
+- Dokumenta versio numero: 111
+- Tempo de kreado de dokumentoj: 2025-02-14 (GMT)
 
 ## 2 Planaj Detaloj
 
