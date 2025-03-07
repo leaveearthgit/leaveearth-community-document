@@ -6,8 +6,8 @@ Dieses Dokument wird mit github synchronisiert: https://github.com/leaveearthgit
 
 ## 1 Dokumentinformationen
 
-- Versionsnummer des Dokuments: 113
-- Erstellungszeit des Dokuments: 2025-02-28 (GMT)
+- Versionsnummer des Dokuments: 114
+- Erstellungszeit des Dokuments: 2025-03-07 (GMT)
 
 ## 2 Plandetails
 
