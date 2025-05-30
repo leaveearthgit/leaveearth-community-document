@@ -6,8 +6,8 @@ Dukumeentigan waxa lala mid dhigi doonaa github: https://github.com/leaveearthgi
 
 ## 1 Macluumaadka Dukumentiga
 
-- Dukumeenti lambarka nooca: 118
-- Wakhtiga abuurista dukumeenti: 2025-04-04 (GMT)
+- Dukumeenti lambarka nooca: 70
+- Wakhtiga abuurista dukumeenti: 2025-05-30 (GMT)
 
 ## 2 Faahfaahinta Qorshaha
 

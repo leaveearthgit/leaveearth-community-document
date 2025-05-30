@@ -6,8 +6,8 @@ Este documento sincronizarase con github: https://github.com/leaveearthgit/leave
 
 ## 1 Información do documento
 
-- Número de versión do documento: 118
-- Tempo de creación do documento: 2025-04-04 (GMT)
+- Número de versión do documento: 70
+- Tempo de creación do documento: 2025-05-30 (GMT)
 
 ## 2 Detalles do plan
 
