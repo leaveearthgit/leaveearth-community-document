@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 71
-- Dokumento sukūrimo laikas: 2025-06-06 (GMT)
+- Dokumento versijos numeris: 72
+- Dokumento sukūrimo laikas: 2025-06-13 (GMT)
 
 ## 2 Plano detalės
 
