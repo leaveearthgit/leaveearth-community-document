@@ -6,8 +6,8 @@ Ta dokument bo sinhroniziran z github: https://github.com/leaveearthgit/leaveear
 
 ## 1 Informacije o dokumentu
 
-- Številka različice dokumenta: 72
-- Čas izdelave dokumenta: 2025-06-13 (GMT)
+- Številka različice dokumenta: 73
+- Čas izdelave dokumenta: 2025-06-20 (GMT)
 
 ## 2 Podrobnosti načrta
 

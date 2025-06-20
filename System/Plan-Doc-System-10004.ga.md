@@ -6,8 +6,8 @@ Déanfar an doiciméad seo a shioncronú le github: https://github.com/leaveeart
 
 ## 1 Faisnéis Doiciméad
 
-- Uimhir leagan an doiciméid: 72
-- Am cruthú doiciméad: 2025-06-13 (GMT)
+- Uimhir leagan an doiciméid: 73
+- Am cruthú doiciméad: 2025-06-20 (GMT)
 
 ## 2 Sonraí an Phlean
 
