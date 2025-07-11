@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 75
-- Tími til að búa til skjöl: 2025-07-04 (GMT)
+- Útgáfunúmer skjalsins: 76
+- Tími til að búa til skjöl: 2025-07-11 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
