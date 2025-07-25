@@ -6,8 +6,8 @@ E hoʻonohonoho ʻia kēia palapala i github: https://github.com/leaveearthgit/l
 
 ## 1 ʻIke Palapala
 
-- Helu mana palapala: 77
-- Ka manawa hana palapala: 2025-07-18 (GMT)
+- Helu mana palapala: 78
+- Ka manawa hana palapala: 2025-07-25 (GMT)
 
 ## 2 Nā kikoʻī hoʻolālā
 
