@@ -6,8 +6,8 @@ O lenei pepa o le a tuʻufaʻatasia i le github: https://github.com/leaveearthgi
 
 ## 1 Fa'amatalaga Fa'amaumauga
 
-- Numera fa'amaumauga o pepa: 78
-- Taimi e fai ai pepa: 2025-07-25 (GMT)
+- Numera fa'amaumauga o pepa: 79
+- Taimi e fai ai pepa: 2025-08-01 (GMT)
 
 ## 2 Fa'amatalaga Fuafuaga
 

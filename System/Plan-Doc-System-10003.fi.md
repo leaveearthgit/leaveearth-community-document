@@ -6,8 +6,8 @@ Tämä asiakirja synkronoidaan githubin kanssa: https://github.com/leaveearthgit
 
 ## 1 Asiakirjan tiedot
 
-- Asiakirjan versionumero: 78
-- Asiakirjan luomisaika: 2025-07-25 (GMT)
+- Asiakirjan versionumero: 79
+- Asiakirjan luomisaika: 2025-08-01 (GMT)
 
 ## 2 Suunnitelman tiedot
 

@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 78
-- Dokumenta izveides laiks: 2025-07-25 (GMT)
+- Dokumenta versijas numurs: 79
+- Dokumenta izveides laiks: 2025-08-01 (GMT)
 
 ## 2 Plāna detaļas
 

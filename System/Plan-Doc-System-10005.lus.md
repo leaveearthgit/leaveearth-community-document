@@ -6,8 +6,8 @@ He document hi github nen a inmil ang: https://github.com/leaveearthgit/leaveear
 
 ## 1 Document Thu hriat tur
 
-- Document version number a ni: 78
-- Document siam hun chhung: 2025-07-25 (GMT)
+- Document version number a ni: 79
+- Document siam hun chhung: 2025-08-01 (GMT)
 
 ## 2 Plan Chipchiar zawka hriat theih
 
