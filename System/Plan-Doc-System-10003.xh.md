@@ -6,8 +6,8 @@ Olu xwebhu luyakwenziwa ngaxeshanye kwi github: https://github.com/leaveearthgit
 
 ## 1 Ulwazi loxwebhu
 
-- Inombolo yenguqulelo yoxwebhu: 79
-- Ixesha lokudala uxwebhu: 2025-08-01 (GMT)
+- Inombolo yenguqulelo yoxwebhu: 80
+- Ixesha lokudala uxwebhu: 2025-08-08 (GMT)
 
 ## 2 Cwangcisa Iinkcukacha
 
