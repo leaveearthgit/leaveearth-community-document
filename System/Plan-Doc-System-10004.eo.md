@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 80
-- Tempo de kreado de dokumentoj: 2025-08-08 (GMT)
+- Dokumenta versio numero: 81
+- Tempo de kreado de dokumentoj: 2025-08-15 (GMT)
 
 ## 2 Planaj Detaloj
 

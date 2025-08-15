@@ -6,8 +6,8 @@ Chikalatachi chidzalumikizidwa ku github: https://github.com/leaveearthgit/leave
 
 ## 1 Zolemba Zolemba
 
-- Nambala ya mtundu wa zolemba: 80
-- Nthawi yopanga zolemba: 2025-08-08 (GMT)
+- Nambala ya mtundu wa zolemba: 81
+- Nthawi yopanga zolemba: 2025-08-15 (GMT)
 
 ## 2 Tsatanetsatane wa Mapulani
 
