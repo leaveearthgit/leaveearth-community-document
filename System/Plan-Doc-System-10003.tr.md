@@ -6,8 +6,8 @@ Bu belge github ile senkronize edilecek: https://github.com/leaveearthgit/leavee
 
 ## 1 belge bilgisi
 
-- Belge sürüm numarası: 81
-- Belge oluşturma süresi: 2025-08-15 (GMT)
+- Belge sürüm numarası: 82
+- Belge oluşturma süresi: 2025-08-22 (GMT)
 
 ## 2 Ayrıntıları Planla
 
