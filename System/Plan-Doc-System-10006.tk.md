@@ -6,8 +6,8 @@ Bu resminama github bilen sinhronlaşdyrylar: https://github.com/leaveearthgit/l
 
 ## 1 Resminama maglumatlary
 
-- Resminamanyň wersiýa belgisi: 82
-- Resminamalary döretmek wagty: 2025-08-22 (GMT)
+- Resminamanyň wersiýa belgisi: 83
+- Resminamalary döretmek wagty: 2025-08-29 (GMT)
 
 ## 2 Jikme-jiklikleri meýilleşdiriň
 

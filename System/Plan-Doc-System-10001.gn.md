@@ -6,8 +6,8 @@ Ko kuatia oñembojoajúta github ndive: https://github.com/leaveearthgit/leaveea
 
 ## 1 Kuatia Marandu
 
-- Kuatia versión número: 82
-- Kuatia apo ára: 2025-08-22 (GMT)
+- Kuatia versión número: 83
+- Kuatia apo ára: 2025-08-29 (GMT)
 
 ## 2 Detalle Plan rehegua
 
