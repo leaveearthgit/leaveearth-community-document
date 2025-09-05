@@ -6,8 +6,8 @@ Tento dokument bude synchronizován s githubem: https://github.com/leaveearthgit
 
 ## 1 Informace o dokumentu
 
-- Číslo verze dokumentu: 83
-- Čas vytvoření dokumentu: 2025-08-29 (GMT)
+- Číslo verze dokumentu: 84
+- Čas vytvoření dokumentu: 2025-09-05 (GMT)
 
 ## 2 Podrobnosti plánu
 
