@@ -6,8 +6,8 @@ Wɔbɛma saa krataa yi ayɛ synchronized ne github: https://github.com/leaveeart
 
 ## 1 Nwoma ho Nsɛm
 
-- Document version nɔma: 89
-- Nwoma a wɔbɔ no bere: 2025-10-10 (GMT)
+- Document version nɔma: 90
+- Nwoma a wɔbɔ no bere: 2025-10-17 (GMT)
 
 ## 2 Nhyehyɛe no Ho Nsɛm
 

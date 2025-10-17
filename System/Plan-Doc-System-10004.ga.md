@@ -6,8 +6,8 @@ Déanfar an doiciméad seo a shioncronú le github: https://github.com/leaveeart
 
 ## 1 Faisnéis Doiciméad
 
-- Uimhir leagan an doiciméid: 89
-- Am cruthú doiciméad: 2025-10-10 (GMT)
+- Uimhir leagan an doiciméid: 90
+- Am cruthú doiciméad: 2025-10-17 (GMT)
 
 ## 2 Sonraí an Phlean
 
