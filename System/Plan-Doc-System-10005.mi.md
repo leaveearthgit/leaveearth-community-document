@@ -6,8 +6,8 @@ Ka tukutahia tenei tuhinga ki te github: https://github.com/leaveearthgit/leavee
 
 ## 1 Tuhinga Tuhinga
 
-- Tau putanga tuhinga: 92
-- Te wa hanga tuhinga: 2025-10-31 (GMT)
+- Tau putanga tuhinga: 93
+- Te wa hanga tuhinga: 2025-11-07 (GMT)
 
 ## 2 Nga Taipitopito Mahere
 
