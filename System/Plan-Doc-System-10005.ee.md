@@ -6,8 +6,8 @@ Woawɔ nuŋlɔɖi sia wòawɔ ɖeka kple github: https://github.com/leaveearthgi
 
 ## 1 Nuŋlɔɖi Ŋuti Nyatakakawo
 
-- Nuŋlɔɖi ƒe tɔtrɔ ƒe xexlẽdzesi: 94
-- Nuŋlɔɖiwo wɔwɔ ƒe ɣeyiɣi: 2025-11-14 (GMT)
+- Nuŋlɔɖi ƒe tɔtrɔ ƒe xexlẽdzesi: 95
+- Nuŋlɔɖiwo wɔwɔ ƒe ɣeyiɣi: 2025-11-21 (GMT)
 
 ## 2 Ðoɖowɔwɔ Ŋuti Nyatakakawo Tsitotsito
 
