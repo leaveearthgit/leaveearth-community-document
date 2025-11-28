@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 95
-- Tempo de kreado de dokumentoj: 2025-11-21 (GMT)
+- Dokumenta versio numero: 96
+- Tempo de kreado de dokumentoj: 2025-11-28 (GMT)
 
 ## 2 Planaj Detaloj
 
