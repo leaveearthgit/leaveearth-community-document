@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 96
-- Tími til að búa til skjöl: 2025-11-28 (GMT)
+- Útgáfunúmer skjalsins: 97
+- Tími til að búa til skjöl: 2025-12-05 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

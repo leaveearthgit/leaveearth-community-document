@@ -6,8 +6,8 @@ This document will be synchronized to github: https://github.com/leaveearthgit/l
 
 ## 1 Document Information
 
-- Document version number: 96
-- Document creation time: 2025-11-28 (GMT)
+- Document version number: 97
+- Document creation time: 2025-12-05 (GMT)
 
 ## 2 Plan Details
 
