@@ -6,8 +6,8 @@ Dette dokumentet vil bli synkronisert til github: https://github.com/leaveearthg
 
 ## 1 Dokumentinformasjon
 
-- Dokumentets versjonsnummer: 97
-- Dokumentopprettingstid: 2025-12-05 (GMT)
+- Dokumentets versjonsnummer: 98
+- Dokumentopprettingstid: 2025-12-12 (GMT)
 
 ## 2 Plandetaljer
 
