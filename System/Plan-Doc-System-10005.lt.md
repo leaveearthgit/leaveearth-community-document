@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 98
-- Dokumento sukūrimo laikas: 2025-12-12 (GMT)
+- Dokumento versijos numeris: 99
+- Dokumento sukūrimo laikas: 2025-12-19 (GMT)
 
 ## 2 Plano detalės
 

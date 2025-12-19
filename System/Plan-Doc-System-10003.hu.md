@@ -6,8 +6,8 @@ Ez a dokumentum szinkronizálva lesz a githubbal: https://github.com/leaveearthg
 
 ## 1 Dokumentum információk
 
-- A dokumentum verziószáma: 98
-- Dokumentumkészítés ideje: 2025-12-12 (GMT)
+- A dokumentum verziószáma: 99
+- Dokumentumkészítés ideje: 2025-12-19 (GMT)
 
 ## 2 Terv részletei
 
