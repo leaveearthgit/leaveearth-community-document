@@ -6,8 +6,8 @@ Iyi nyandiko izahuzwa na github: https://github.com/leaveearthgit/leaveearth-com
 
 ## 1 Amakuru yinyandiko
 
-- Inomero y'inyandiko: 99
-- Igihe cyo gukora inyandiko: 2025-12-19 (GMT)
+- Inomero y'inyandiko: 100
+- Igihe cyo gukora inyandiko: 2025-12-26 (GMT)
 
 ## 2 Tegura Ibisobanuro
 
