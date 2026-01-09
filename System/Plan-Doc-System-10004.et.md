@@ -6,8 +6,8 @@ See dokument sünkroonitakse Githubiga: https://github.com/leaveearthgit/leaveea
 
 ## 1 Dokumendi teave
 
-- Dokumendi versiooni number: 101
-- Dokumendi loomise aeg: 2026-01-02 (GMT)
+- Dokumendi versiooni number: 102
+- Dokumendi loomise aeg: 2026-01-09 (GMT)
 
 ## 2 Plaani üksikasjad
 
