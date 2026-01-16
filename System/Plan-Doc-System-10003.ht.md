@@ -6,8 +6,8 @@ Dokiman sa a pral senkronize ak github: https://github.com/leaveearthgit/leaveea
 
 ## 1 Enfòmasyon sou Dokiman
 
-- Nimewo vèsyon dokiman an: 102
-- Tan kreyasyon dokiman an: 2026-01-09 (GMT)
+- Nimewo vèsyon dokiman an: 103
+- Tan kreyasyon dokiman an: 2026-01-16 (GMT)
 
 ## 2 Detay Plan
 
