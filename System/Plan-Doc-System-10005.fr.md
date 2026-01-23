@@ -6,8 +6,8 @@ Ce document sera synchronisé avec github: https://github.com/leaveearthgit/leav
 
 ## 1 Informations sur les documents
 
-- Numéro de version du document: 103
-- Heure de création du document: 2026-01-16 (GMT)
+- Numéro de version du document: 104
+- Heure de création du document: 2026-01-23 (GMT)
 
 ## 2 Détails du forfait
 
