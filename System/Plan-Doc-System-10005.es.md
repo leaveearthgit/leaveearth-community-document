@@ -6,8 +6,8 @@ Este documento se sincronizará con github: https://github.com/leaveearthgit/lea
 
 ## 1 Información del Documento
 
-- Número de versión del documento: 104
-- Hora de creación del documento: 2026-01-23 (GMT)
+- Número de versión del documento: 105
+- Hora de creación del documento: 2026-01-30 (GMT)
 
 ## 2 Detalles del plan
 
