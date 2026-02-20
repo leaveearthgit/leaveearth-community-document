@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 107
-- Tími til að búa til skjöl: 2026-02-13 (GMT)
+- Útgáfunúmer skjalsins: 108
+- Tími til að búa til skjöl: 2026-02-20 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
