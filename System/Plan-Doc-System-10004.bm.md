@@ -6,8 +6,8 @@ Nin sɛbɛn in bɛna kɛ ɲɔgɔn fɛ ni github ye: https://github.com/leaveeart
 
 ## 1 Sɛbɛnw Kunnafoni
 
-- Sɛbɛnw ka version nimɔrɔ: 108
-- Sɛbɛnw dabɔ waati: 2026-02-20 (GMT)
+- Sɛbɛnw ka version nimɔrɔ: 109
+- Sɛbɛnw dabɔ waati: 2026-02-27 (GMT)
 
 ## 2 Labɛnni kunnafoni
 
