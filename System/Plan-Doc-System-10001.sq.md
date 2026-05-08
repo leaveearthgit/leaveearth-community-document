@@ -6,8 +6,8 @@ Ky dokument do të sinkronizohet me github: https://github.com/leaveearthgit/lea
 
 ## 1 Informacioni i Dokumentit
 
-- Numri i versionit të dokumentit: 118
-- Koha e krijimit të dokumentit: 2026-05-01 (GMT)
+- Numri i versionit të dokumentit: 119
+- Koha e krijimit të dokumentit: 2026-05-08 (GMT)
 
 ## 2 Detajet e planit
 
