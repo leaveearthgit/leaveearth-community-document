@@ -6,8 +6,8 @@ Cov ntaub ntawv no yuav raug synchronized rau github: https://github.com/leaveea
 
 ## 1 Cov ntaub ntawv xov xwm
 
-- Cov ntaub ntawv version naj npawb: 121
-- Lub sijhawm tsim cov ntaub ntawv: 2026-05-22 (GMT)
+- Cov ntaub ntawv version naj npawb: 122
+- Lub sijhawm tsim cov ntaub ntawv: 2026-05-29 (GMT)
 
 ## 2 Kev Npaj Paub meej
 
