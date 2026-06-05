@@ -6,8 +6,8 @@ Chikalatachi chidzalumikizidwa ku github: https://github.com/leaveearthgit/leave
 
 ## 1 Zolemba Zolemba
 
-- Nambala ya mtundu wa zolemba: 122
-- Nthawi yopanga zolemba: 2026-05-29 (GMT)
+- Nambala ya mtundu wa zolemba: 123
+- Nthawi yopanga zolemba: 2026-06-05 (GMT)
 
 ## 2 Tsatanetsatane wa Mapulani
 
