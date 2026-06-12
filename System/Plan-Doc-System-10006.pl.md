@@ -6,8 +6,8 @@ Ten dokument zostanie zsynchronizowany z githubem: https://github.com/leaveearth
 
 ## 1 Informacje o dokumencie
 
-- Numer wersji dokumentu: 123
-- Czas tworzenia dokumentu: 2026-06-05 (GMT)
+- Numer wersji dokumentu: 124
+- Czas tworzenia dokumentu: 2026-06-12 (GMT)
 
 ## 2 Szczegóły planu
 
