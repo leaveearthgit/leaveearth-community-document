@@ -6,8 +6,8 @@ Kay qillqaqa github nisqawanmi tinkuchisqa kanqa: https://github.com/leaveearthg
 
 ## 1 Qillqamanta Willakuy
 
-- Qillqap laya yupaynin: 124
-- Qillqakuna paqarichiy pacha: 2026-06-12 (GMT)
+- Qillqap laya yupaynin: 125
+- Qillqakuna paqarichiy pacha: 2026-06-19 (GMT)
 
 ## 2 Planmanta Detalles
 

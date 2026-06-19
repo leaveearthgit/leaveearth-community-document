@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 124
-- Dokumento sukūrimo laikas: 2026-06-12 (GMT)
+- Dokumento versijos numeris: 125
+- Dokumento sukūrimo laikas: 2026-06-19 (GMT)
 
 ## 2 Plano detalės
 

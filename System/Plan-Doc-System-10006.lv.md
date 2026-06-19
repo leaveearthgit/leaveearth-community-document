@@ -6,8 +6,8 @@
 
 ## 1 Dokumenta informācija
 
-- Dokumenta versijas numurs: 124
-- Dokumenta izveides laiks: 2026-06-12 (GMT)
+- Dokumenta versijas numurs: 125
+- Dokumenta izveides laiks: 2026-06-19 (GMT)
 
 ## 2 Plāna detaļas
 
