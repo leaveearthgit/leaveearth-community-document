@@ -6,8 +6,8 @@ This document will be synchronized to github: https://github.com/leaveearthgit/l
 
 ## 1 Documentum Information
 
-- Document version numerus: 125
-- Documenti creatio tempore: 2026-06-19 (GMT)
+- Document version numerus: 126
+- Documenti creatio tempore: 2026-06-26 (GMT)
 
 ## 2 Consilium Details
 

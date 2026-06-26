@@ -6,8 +6,8 @@ Déanfar an doiciméad seo a shioncronú le github: https://github.com/leaveeart
 
 ## 1 Faisnéis Doiciméad
 
-- Uimhir leagan an doiciméid: 125
-- Am cruthú doiciméad: 2026-06-19 (GMT)
+- Uimhir leagan an doiciméid: 126
+- Am cruthú doiciméad: 2026-06-26 (GMT)
 
 ## 2 Sonraí an Phlean
 
