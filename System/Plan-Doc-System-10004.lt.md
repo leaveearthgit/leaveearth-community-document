@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 127
-- Dokumento sukūrimo laikas: 2026-07-03 (GMT)
+- Dokumento versijos numeris: 128
+- Dokumento sukūrimo laikas: 2026-07-10 (GMT)
 
 ## 2 Plano detalės
 
