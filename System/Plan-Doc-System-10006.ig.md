@@ -6,8 +6,8 @@ A ga-emekọrịta akwụkwọ a na github: https://github.com/leaveearthgit/lea
 
 ## 1 Ozi akwụkwọ
 
-- Nọmba ụdị akwụkwọ: 129
-- Oge imepụta akwụkwọ: 2026-07-17 (GMT)
+- Nọmba ụdị akwụkwọ: 130
+- Oge imepụta akwụkwọ: 2026-07-24 (GMT)
 
 ## 2 Nkọwa atụmatụ
 

@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 129
-- Tími til að búa til skjöl: 2026-07-17 (GMT)
+- Útgáfunúmer skjalsins: 130
+- Tími til að búa til skjöl: 2026-07-24 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

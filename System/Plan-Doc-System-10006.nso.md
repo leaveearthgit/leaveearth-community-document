@@ -6,8 +6,8 @@ Tokomane ye e tla nyalantšhwa le github: https://github.com/leaveearthgit/leave
 
 ## 1 Tshedimošo ya Tokomane
 
-- Nomoro ya phetolelo ya tokomane: 129
-- Nako ya tlholo ya ditokomane: 2026-07-17 (GMT)
+- Nomoro ya phetolelo ya tokomane: 130
+- Nako ya tlholo ya ditokomane: 2026-07-24 (GMT)
 
 ## 2 Dintlha tša Thulaganyo
 
