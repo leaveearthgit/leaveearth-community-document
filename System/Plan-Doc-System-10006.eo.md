@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 131
-- Tempo de kreado de dokumentoj: 2026-07-31 (GMT)
+- Dokumenta versio numero: 132
+- Tempo de kreado de dokumentoj: 2026-08-07 (GMT)
 
 ## 2 Planaj Detaloj
 
