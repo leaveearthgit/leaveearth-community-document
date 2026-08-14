@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 132
-- Dokumento sukūrimo laikas: 2026-08-07 (GMT)
+- Dokumento versijos numeris: 133
+- Dokumento sukūrimo laikas: 2026-08-14 (GMT)
 
 ## 2 Plano detalės
 
