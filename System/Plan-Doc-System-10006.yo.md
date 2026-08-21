@@ -6,8 +6,8 @@ Iwe yi yoo muuṣiṣẹpọ si github: https://github.com/leaveearthgit/leaveea
 
 ## 1 Iwe Alaye
 
-- Nọmba version iwe: 133
-- Akoko ẹda iwe: 2026-08-14 (GMT)
+- Nọmba version iwe: 134
+- Akoko ẹda iwe: 2026-08-21 (GMT)
 
 ## 2 Awọn alaye Eto
 

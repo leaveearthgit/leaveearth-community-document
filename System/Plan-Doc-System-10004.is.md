@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 133
-- Tími til að búa til skjöl: 2026-08-14 (GMT)
+- Útgáfunúmer skjalsins: 134
+- Tími til að búa til skjöl: 2026-08-21 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

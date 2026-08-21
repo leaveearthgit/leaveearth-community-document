@@ -6,8 +6,8 @@ Dit document wordt gesynchroniseerd met github: https://github.com/leaveearthgit
 
 ## 1 Documenteer informatie
 
-- Documentversienummer: 133
-- Aanmaaktijd document: 2026-08-14 (GMT)
+- Documentversienummer: 134
+- Aanmaaktijd document: 2026-08-21 (GMT)
 
 ## 2 Plandetails
 
