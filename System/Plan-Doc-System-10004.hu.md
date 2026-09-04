@@ -6,8 +6,8 @@ Ez a dokumentum szinkronizálva lesz a githubbal: https://github.com/leaveearthg
 
 ## 1 Dokumentum információk
 
-- A dokumentum verziószáma: 135
-- Dokumentumkészítés ideje: 2026-08-28 (GMT)
+- A dokumentum verziószáma: 136
+- Dokumentumkészítés ideje: 2026-09-04 (GMT)
 
 ## 2 Terv részletei
 
