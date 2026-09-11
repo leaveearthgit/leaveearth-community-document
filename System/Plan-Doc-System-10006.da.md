@@ -6,8 +6,8 @@ Dette dokument vil blive synkroniseret til github: https://github.com/leaveearth
 
 ## 1 Dokumentoplysninger
 
-- Dokumentets versionsnummer: 136
-- Dokumentoprettelsestid: 2026-09-04 (GMT)
+- Dokumentets versionsnummer: 137
+- Dokumentoprettelsestid: 2026-09-11 (GMT)
 
 ## 2 Plandetaljer
 
