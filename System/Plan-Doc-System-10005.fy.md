@@ -6,8 +6,8 @@ Dit dokumint sil syngronisearre wurde nei github: https://github.com/leaveearthg
 
 ## 1 Dokumint ynformaasje
 
-- Dokumint ferzjenûmer: 139
-- Dokumint oanmeitsjen tiid: 2026-09-25 (GMT)
+- Dokumint ferzjenûmer: 140
+- Dokumint oanmeitsjen tiid: 2026-10-02 (GMT)
 
 ## 2 Plan Details
 
