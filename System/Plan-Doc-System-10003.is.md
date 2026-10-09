@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 140
-- Tími til að búa til skjöl: 2026-10-02 (GMT)
+- Útgáfunúmer skjalsins: 141
+- Tími til að búa til skjöl: 2026-10-09 (GMT)
 
 ## 2 Skipulagsupplýsingar
 
