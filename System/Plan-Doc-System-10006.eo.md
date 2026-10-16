@@ -6,8 +6,8 @@
 
 ## 1 Dokumentaj Informoj
 
-- Dokumenta versio numero: 141
-- Tempo de kreado de dokumentoj: 2026-10-09 (GMT)
+- Dokumenta versio numero: 142
+- Tempo de kreado de dokumentoj: 2026-10-16 (GMT)
 
 ## 2 Planaj Detaloj
 
