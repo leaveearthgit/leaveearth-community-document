@@ -6,8 +6,8 @@ Déanfar an doiciméad seo a shioncronú le github: https://github.com/leaveeart
 
 ## 1 Faisnéis Doiciméad
 
-- Uimhir leagan an doiciméid: 142
-- Am cruthú doiciméad: 2026-10-16 (GMT)
+- Uimhir leagan an doiciméid: 143
+- Am cruthú doiciméad: 2026-10-23 (GMT)
 
 ## 2 Sonraí an Phlean
 
