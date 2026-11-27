@@ -6,8 +6,8 @@ Tài liệu này sẽ được đồng bộ lên github: https://github.com/leav
 
 ## 1 thông tin tài liệu
 
-- Số phiên bản tài liệu: 147
-- Thời gian tạo tài liệu: 2026-11-20 (GMT)
+- Số phiên bản tài liệu: 148
+- Thời gian tạo tài liệu: 2026-11-27 (GMT)
 
 ## 2 Chi tiết kế hoạch
 

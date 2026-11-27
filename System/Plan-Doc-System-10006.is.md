@@ -6,8 +6,8 @@
 
 ## 1 Skjalupplýsingar
 
-- Útgáfunúmer skjalsins: 147
-- Tími til að búa til skjöl: 2026-11-20 (GMT)
+- Útgáfunúmer skjalsins: 148
+- Tími til að búa til skjöl: 2026-11-27 (GMT)
 
 ## 2 Skipulagsupplýsingar
 

@@ -6,8 +6,8 @@
 
 ## 1 Dokumento informacija
 
-- Dokumento versijos numeris: 147
-- Dokumento sukūrimo laikas: 2026-11-20 (GMT)
+- Dokumento versijos numeris: 148
+- Dokumento sukūrimo laikas: 2026-11-27 (GMT)
 
 ## 2 Plano detalės
 
